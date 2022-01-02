@@ -1,4 +1,4 @@
-name: VPS-RUN
+name: CI
 
 on: workflow_dispatch
 
